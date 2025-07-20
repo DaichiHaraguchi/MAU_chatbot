@@ -23,19 +23,28 @@ export GEMINI_API_KEY="YOUR API KEY"
 ```YOUR API KEY```にはご自身のGEMINI API KEYを入れてください。
 無料で使えますので、ご自身で調べてください。
 
-## データの準備
-### シラバスデータのスクレイピング 
+## データの準備（シラバスデータなどのスクレイピング）
 ```data/```の中に以下3つが含まれていれば実行の必要なし。
 - ```all_syllabus_with_overview.csv```
 - ```scraped_data_student_menu/*.json```
 - ```vector_store/*```
 
 上のファイルを順に生成させるコマンドは以下の通り。
+### 1. シラバスのスクレイピング
 ```bash
 uv run python make_database/syllabus_scraper.py --base-url https://ccap02.musabi.ac.jp/
+```
+
+### 2. ムサビ通信HPの在学生（学２課程）向けの情報のスクレイピング
+```bash
 uv run python make_database/web_scraper.py --base-url https://cc.musabi.ac.jp/campus-2nd/
+```
+
+### 3.ムサビ通信HPのスクレイピング結果を圧縮
+```bash
 uv run make_database/create_vector_db.py
 ```
+
 なお、```--base-url```で今回指定しているのは2025年度のページなので、それ以降の年度のデータで作りたければここを適宜変えていただけると良いかと思われる。
 
 ## アプリの実行
