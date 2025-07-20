@@ -1,0 +1,23 @@
+[project]
+name = "search-engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google>=3.0.0",
+    "google-api-python-client>=2.176.0",
+    "google-auth>=2.40.3",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.2",
+    "google-generativeai", # バージョン指定を削除
+    "ipykernel>=6.29.5",
+    "pip>=25.1.1",
+    "streamlit>=1.46.1",
+    "langchain-google-genai>=1.0.7",
+    "langchain-core>=0.2.23",
+    "line-bot-sdk>=3.17.1",
+    "requests>=2.32.4",
+    "beautifulsoup4>=4.13.4",
+    "faiss-cpu>=1.11.0.post1",
+]

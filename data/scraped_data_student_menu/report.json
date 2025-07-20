@@ -1,0 +1,103 @@
+{
+  "url": "https://cc.musabi.ac.jp/campus-2nd/report",
+  "title": "レポート - 在学生の方（学2課程）",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "レポート"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "レポートの概要"
+    },
+    {
+      "type": "paragraph",
+      "text": "通信授業科目は、履修登録した科目ごとに配付される教科書や学習指導書等によって自宅学習を行い、与えられた課題に対して通信授業課題（レポート・実技課題作品）を作成・提出し、講評等の添削および評価を受けます。ここでは通信授業課題のうちの「レポート」について説明します。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "レポートの提出方法と評価"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "文字数"
+    },
+    {
+      "type": "paragraph",
+      "text": "学習指導書に特別な指定がない課題は、1課題につき2000字程度（1800字以上2200字以下）です。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "提出順序"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "同一科目においてのレポートの提出順序は課題番号順です（一部科目を除く）。",
+        "第2課題以降のレポートは前の課題が合格した後、前課題の講評を読んでから提出してください。"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "同一科目において複数の課題を同時に提出することはできません。ただし提出中のレポートが受理後30日を経過しても添削が終了していない場合は、次課題のレポートを提出することができます。同一科目でない場合はこの限りではありません。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "提出方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "「Web」または「郵送」のいずれかの方法で行います。"
+    },
+    {
+      "type": "paragraph",
+      "text": "科目によって提出できる方法は異なりますので学習指導書で確認してください。なお、同一科目においては課題ごとに提出方法を変えることはできません。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "評価と成績"
+    },
+    {
+      "type": "paragraph",
+      "text": "レポートの評価はS・A・B・C・Dの5段階で評価されます。S・A・B・Cは合格、Dは不合格です。不合格（D）となった課題は合格するまで再提出ができます。一度合格となった課題は再提出することはできません。"
+    },
+    {
+      "type": "paragraph",
+      "text": "当該科目に課せられた通信授業課題、レポートの他にスクーリングや科目試験のある科目は全てに合格することで科目としての単位修得となります。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "再提出"
+    },
+    {
+      "type": "paragraph",
+      "text": "レポートの添削結果が「不合格（D）」であった場合は、改めて同一課題のレポートを再提出することになります。郵送・通信教育チーム窓口への持参の場合には、再提出レポートにしてください。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "前年度から課題が変更された科目のレポート提出"
+    },
+    {
+      "type": "paragraph",
+      "text": "前年度から課題が変更となった場合、その科目の継続履修者に限り、当該年度5月末日16：30までは前年度の課題（旧課題）、当該年度の課題（新課題）どちらの課題でもレポート提出が可能です。旧課題で提出する際は、レポートの冒頭に「旧課題」と明記してください。 継続履修者でも6月以降に課題提出を行う場合は、新課題で提出しなければなりません。"
+    },
+    {
+      "type": "paragraph",
+      "text": "教科書は、当該年度「Webシラバス」『学修指導書』内で指定のものを使用します。前年度から教科書が変更された場合でも、科目試験の問題は、原則的に当該年度の教科書の内容から出題されますので、継続履修者は必ず当該年度に指定された教科書を確認してください。"
+    },
+    {
+      "type": "text",
+      "text": "<div class=\"p-card-list__item is-simple\">\n      <div class=\"c-card is-dark\"><a class=\"c-card__wrapper\" href=\"/koushin\">\n          <h3 class=\"c-card__title u-opacity is-inner\">教員免許状更新講習<br><span class=\"note\">対面講習と通信講習が選べる</span></h3>\n          <div class=\"c-card__image\"><img class=\"u-opacity is-inner\" src=\"https://cc.musabi.ac.jp/campus-2nd/wp-content/themes/musabi/assets/images/top/supplement_02.jpg\"></div>\n          <p class=\"c-card__button\"><span class=\"c-button is-inner\"><span>詳しく見る</span></span></p></a></div>\n    </div>"
+    }
+  ]
+}

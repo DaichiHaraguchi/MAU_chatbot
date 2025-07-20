@@ -1,0 +1,98 @@
+{
+  "url": "https://cc.musabi.ac.jp/campus-2nd/registration",
+  "title": "履修登録 - 在学生の方（学2課程）",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "履修登録"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "履修登録の概要"
+    },
+    {
+      "type": "paragraph",
+      "text": "履修登録とは、1年間に学習をする科目を選んで登録することです。登録作業は年度ごとに行います。履修登録をしていない科目は学習することができません。また履修登録はその年度に1回のみで、登録完了後の追加、変更等はできません。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "履修登録期間"
+    },
+    {
+      "type": "paragraph",
+      "text": "前年度の3月15日～3月31日に行います。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "履修登録単位数の上限"
+    },
+    {
+      "type": "paragraph",
+      "text": "1年間に登録できる単位数の上限は40単位です。 ただし、「教職に関する科目」「博物館に関する科目」はこの上限に含まれません（芸術文化学科を除く）。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "科目の選択"
+    },
+    {
+      "type": "paragraph",
+      "text": "履修登録は、『履修登録ガイドブック』『科目一覧 科目試験日程表』『面接授業［スクーリング］日程表 メディア授業［リアルタイム］日程表』などを参照しながら「Webシラバス」に記載されている授業概要、授業形態、履修条件等をよく読んで登録を行います。あわせて進学条件、卒業条件や資格に必要な科目も履修登録時に把握します。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "科目群"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下の3つの科目群より選択します。 科目によって、履修条件や授業形態等は異なります。"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 文化総合科目 2. 造形総合科目 3. 学科別専門科目"
+    },
+    {
+      "type": "paragraph",
+      "text": "この他に資格に必要な科目として、"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 教職に関する科目 5. 博物館に関する科目"
+    },
+    {
+      "type": "paragraph",
+      "text": "があります。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "履修登録の方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "Webキャンパス上での登録または郵送（「履修登録票」）での登録ができます。 ただし、「教職に関する科目」で流用科目がある場合などは、郵送のみの登録となります。 履修登録が完了すると、その科目の教材（教科書、学習指導書）が配付され、学習を始めることができます。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "継続履修"
+    },
+    {
+      "type": "paragraph",
+      "text": "履修登録をした科目のうち、その年度内で単位修得に至らず、翌年度も引き続き学習をしたい場合、次年度に同じ科目を履修登録することで、レポートやスクーリングの評価を引き継ぐことができます。これを継続履修といいます。年度をあけることなく履修登録すれば単位修得まで継続履修は可能です（メディア授業は継続履修が適用されません）。継続履修分の単位数も履修登録単位数の上限40単位に含まれます。"
+    },
+    {
+      "type": "paragraph",
+      "text": "※履修登録については、『履修ガイドブック』を参照してください。"
+    },
+    {
+      "type": "text",
+      "text": "<div class=\"p-card-list__item is-simple\">\n      <div class=\"c-card is-dark\"><a class=\"c-card__wrapper\" href=\"/koushin\">\n          <h3 class=\"c-card__title u-opacity is-inner\">教員免許状更新講習<br><span class=\"note\">対面講習と通信講習が選べる</span></h3>\n          <div class=\"c-card__image\"><img class=\"u-opacity is-inner\" src=\"https://cc.musabi.ac.jp/campus-2nd/wp-content/themes/musabi/assets/images/top/supplement_02.jpg\"></div>\n          <p class=\"c-card__button\"><span class=\"c-button is-inner\"><span>詳しく見る</span></span></p></a></div>\n    </div>"
+    }
+  ]
+}

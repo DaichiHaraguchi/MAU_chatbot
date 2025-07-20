@@ -1,0 +1,36 @@
+{
+  "url": "https://cc.musabi.ac.jp/campus-2nd/web-syllabus",
+  "title": "webシラバス - 在学生の方（学2課程）",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "webシラバス"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "シラバスの概要"
+    },
+    {
+      "type": "paragraph",
+      "text": "シラバスとは、科目ごとの大まかな学習計画のこと。このページには、ムサビ通信全科目のシラバスを掲載しています。履修中や履修予定の科目についてよく読み、内容を理解しておきましょう。"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "実務経験を有する教員による授業科目一覧（学2課程）"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2025年度学2課程入学生・在学生シラバス"
+    },
+    {
+      "type": "text",
+      "text": "<div class=\"p-card-list__item is-simple\">\n      <div class=\"c-card is-dark\"><a class=\"c-card__wrapper\" href=\"/koushin\">\n          <h3 class=\"c-card__title u-opacity is-inner\">教員免許状更新講習<br><span class=\"note\">対面講習と通信講習が選べる</span></h3>\n          <div class=\"c-card__image\"><img class=\"u-opacity is-inner\" src=\"https://cc.musabi.ac.jp/campus-2nd/wp-content/themes/musabi/assets/images/top/supplement_02.jpg\"></div>\n          <p class=\"c-card__button\"><span class=\"c-button is-inner\"><span>詳しく見る</span></span></p></a></div>\n    </div>"
+    }
+  ]
+}

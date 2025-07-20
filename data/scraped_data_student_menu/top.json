@@ -1,0 +1,63 @@
+{
+  "url": "https://cc.musabi.ac.jp/campus-2nd/",
+  "title": "在学生の方（学2課程） - 武蔵野美術大学 通信教育課程",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "在学生の方（学2課程）"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "在学生へのお知らせ"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "2024.04.01スクーリング、科目試験における感染症対応について",
+        "2023.08.01学費の改定について",
+        "2022.07.05WebサイトやSNSなどで課題内容や試験問題、教員の添削・講評コメントを公開することへの注意",
+        "2025.07.182025年度 秋期週末スクーリングの宿泊施設のお知らせ",
+        "2025.07.167月27日（日）の西武バスの増便について",
+        "2025.07.162025年度 夏期スクーリング期間のお知らせ・事務取扱",
+        "2025.07.082025年度 夏期スクーリング時の画材販売について",
+        "2025.06.032025年度 夏期スクーリングの宿泊施設のお知らせ",
+        "2025.06.02家計急変の場合の「高等教育の修学支援新制度」申請について",
+        "2025.05.20春期第2回週末スクーリング期間の食堂・売店の営業時間について（鷹の台キャンパス）"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "災害に関する対応支援措置"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "災害支援措置2025.03.12令和7年2月17日からの日本海側を中心とした大雪で被災された学生に対する支援措置について",
+        "災害支援措置2025.03.12令和7年岩手県大船渡市における大規模火災で被災された学生に対する支援措置について",
+        "災害支援措置2025.02.20令和7年2月4日からの大雪で被災された学生に対する支援措置について"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "被災された皆さまに、心からお見舞い申し上げます。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "在学生向けページ"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下のリンクから詳細をご覧ください。"
+    },
+    {
+      "type": "text",
+      "text": "<div class=\"p-card-list__item is-simple\">\n      <div class=\"c-card is-dark\"><a class=\"c-card__wrapper\" href=\"/koushin\">\n          <h3 class=\"c-card__title u-opacity is-inner\">教員免許状更新講習<br><span class=\"note\">対面講習と通信講習が選べる</span></h3>\n          <div class=\"c-card__image\"><img class=\"u-opacity is-inner\" src=\"https://cc.musabi.ac.jp/campus-2nd/wp-content/themes/musabi/assets/images/top/supplement_02.jpg\"></div>\n          <p class=\"c-card__button\"><span class=\"c-button is-inner\"><span>詳しく見る</span></span></p></a></div>\n    </div>"
+    }
+  ]
+}
